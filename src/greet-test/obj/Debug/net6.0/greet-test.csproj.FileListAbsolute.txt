@@ -1,0 +1,15 @@
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\bin\Debug\net6.0\greet-test.exe
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\bin\Debug\net6.0\greet-test.deps.json
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\bin\Debug\net6.0\greet-test.runtimeconfig.json
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\bin\Debug\net6.0\greet-test.dll
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\bin\Debug\net6.0\greet-test.pdb
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.csproj.AssemblyReference.cache
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.AssemblyInfoInputs.cache
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.AssemblyInfo.cs
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.csproj.CoreCompileInputs.cache
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.dll
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\refint\greet-test.dll
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.pdb
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\greet-test.genruntimeconfig.cache
+C:\Repos\Estudos\Trybe\greet-test\src\greet-test\obj\Debug\net6.0\ref\greet-test.dll

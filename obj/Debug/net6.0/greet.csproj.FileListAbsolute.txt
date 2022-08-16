@@ -1,5 +1,0 @@
-/mnt/a89d78b5-cfdc-4c4e-9502-3d695b7dde36/Workspace/Aceleração/Projetos/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
-/mnt/a89d78b5-cfdc-4c4e-9502-3d695b7dde36/Workspace/Aceleração/Projetos/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
-/mnt/a89d78b5-cfdc-4c4e-9502-3d695b7dde36/Workspace/Aceleração/Projetos/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
-/mnt/a89d78b5-cfdc-4c4e-9502-3d695b7dde36/Workspace/Aceleração/Projetos/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
-/mnt/a89d78b5-cfdc-4c4e-9502-3d695b7dde36/Workspace/Aceleração/Projetos/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
